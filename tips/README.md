@@ -1,8 +1,8 @@
-# tip-calculator
+# TipCalcProject
 Sweta Sridhar's first repository on Github created for the iOS Pre-Work: Tip Calculator App through CodePath Courses.
-# Pre-work - Tip Calculator
+# Pre-work - TipCalcProject
 
-Tip Calculator is a tip calculator application for iOS.
+TipCalcProject is a tip calculator application for iOS.
 
 Submitted by: Sweta Sridhar
 
